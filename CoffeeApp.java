@@ -2,16 +2,6 @@ import java.util.Scanner;
 
 class CoffeeShop
 {
-	/*double bonus;
-	
-	CoffeeShop(){}
-	
-	CoffeeShop(String firstName, String lastName, String TPnumber, String ID,double bonus)
-	{
-		super(firstName,lastName,TPnumber,ID);
-		this.bonus=bonus;
-	}*/
-
 	public void displayMenu()
 	{
 		System.out.println("\n\n           **** WHITE-MOON COFFEE SHOP ****\n");
